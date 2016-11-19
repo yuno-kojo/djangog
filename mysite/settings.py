@@ -25,7 +25,7 @@ SECRET_KEY = 'dk$ph7@0bvf1-zoy+n(8umr-97)zd5@797@s&ghjje8&nfrg&1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['peoplecanfly.pythonanywhere.com']
 
 
 # Application definition
